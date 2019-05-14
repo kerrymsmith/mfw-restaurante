@@ -232,3 +232,6 @@ address{
     margin-top: 50px;
     margin-bottom: 25px;
 }
+.requiredStar::after{
+    content:'*';
+}
